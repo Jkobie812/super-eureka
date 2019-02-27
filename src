@@ -1,0 +1,9 @@
+import javax.swing.JOptionPane;
+public class Myself {
+public static void main(String[] args) {
+String msg = "";
+msg = msg + "Hey there my name is jacob I am 22 years old and i am interested in programming a new app.\n";
+msg = msg + "My aim with this course is to create an understandable knoweledge about the IT industry and preferrable get a career in IT possibly to do with a system analasyst";
+JOptionPane.showMessageDialog(null, msg);
+}
+}
